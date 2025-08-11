@@ -14,7 +14,7 @@
 
 ## ✨ Features
 
-- 🆓 **Free for a limited time**
+- 🆓 **Free to use**
 - 🔗 **Add your social media links**
 - 📝 **Write your personal bio**
 - 🖼️ **Upload a profile picture**
