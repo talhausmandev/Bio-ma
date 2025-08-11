@@ -60,7 +60,7 @@ You can also open issues to suggest new features or report bugs.
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/yourusername/bio-ma.git
+git clone https://github.com/talhausmandev/bio-ma.git
 
 # 2️⃣ Navigate into the project folder
 cd bio-ma
