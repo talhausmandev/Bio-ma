@@ -41,6 +41,21 @@
 
 ---
 
+## 🤝 Contribution
+
+Contributions are welcome!  
+Feel free to fork this repository, make improvements, and submit pull requests.  
+You can also open issues to suggest new features or report bugs.
+
+---
+
+## 📬 Contact
+
+🌐 Website: **[Talha Usman Portfolio](https://talhausman.netlify.app)**  
+🐦 Twitter: **[@yourhandle](https://x.com/talhausmandev)**   
+
+---
+
 ## 📦 Installation & Setup
 
 ```bash
@@ -59,21 +74,5 @@ npm install
 # NEXTAUTH_SECRET=your_secret_key
 
 # 5️⃣ Start the development server
-npm run dev```
+npm run dev
 
----
-
-## 🤝 Contribution
-
-Contributions are welcome!  
-Feel free to fork this repository, make improvements, and submit pull requests.  
-You can also open issues to suggest new features or report bugs.
-
----
-
-## 📬 Contact
-
-🌐 Website: **[Talha Usman Portfolio](httpa://talhausman.netlify.app)**  
-🐦 Twitter: **[@yourhandle](https://x.com/talhausmandev)**  
-  
----
