@@ -1,4 +1,4 @@
-# 🌟 Bio-ma
+we# 🌟 Bio-ma
 
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
@@ -52,7 +52,7 @@ You can also open issues to suggest new features or report bugs.
 ## 📬 Contact
 
 🌐 Website: **[Talha Usman Portfolio](https://talhausman.netlify.app)**  
-🐦 Twitter: **[@yourhandle](https://x.com/talhausmandev)**   
+🐦 Twitter: **[@talhauamandev](https://x.com/talhausmandev)**   
 
 ---
 
