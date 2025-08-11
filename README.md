@@ -3,7 +3,7 @@
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)](LICENSE)
+
 
 **Bio-ma** is a **free and simple** web app where users can create and share their bio with **social media links**, a **short username**, a **profile picture**, and a **personal description** — all in one place.
 
@@ -59,7 +59,7 @@ npm install
 # NEXTAUTH_SECRET=your_secret_key
 
 # 5️⃣ Start the development server
-npm run dev
+npm run dev```
 
 ---
 
