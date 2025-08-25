@@ -78,7 +78,7 @@ npm install
 # 4️⃣ Create a `.env.local` file and add your environment variables:
 # Example:
 # MONGODB_URI=your_mongodb_connection_string
-# NEXTAUTH_SECRET=your_secret_key
+# NEXT_PUBLIC_HOST=your_local_connection_url
 
 # 5️⃣ Start the development server
 npm run dev
