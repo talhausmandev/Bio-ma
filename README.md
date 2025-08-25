@@ -20,8 +20,15 @@
 - 🖼️ **Upload a profile picture**
 - 🔍 **Choose a short username** (if available)
 - 📤 **Share your profile** by simply sharing your username
-- ⚡ **Fast, clean, and easy to use**
+- ⚡ **clean, and easy to use**
 
+---
+
+## ❌ Cons
+
+- 🐢 **It is slow**
+- 🔓 **It is not secure**
+  
 ---
 
 ## 🛠️ Tech Stack
