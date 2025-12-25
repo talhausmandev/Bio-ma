@@ -42,12 +42,6 @@
 
 ---
 
-## 🌐 Live Demo
-
-🔗 **[Click here to try Bio-ma](https://bio-ma.vercel.app)**  
-
----
-
 ## 🤝 Contribution
 
 Contributions are welcome!  
